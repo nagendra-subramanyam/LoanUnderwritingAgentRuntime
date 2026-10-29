@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12217.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanUnderwritingAgentRuntime.Api", "LoanUnderwritingAgentRuntime.Api\LoanUnderwritingAgentRuntime.Api.csproj", "{1A84F627-C303-62D3-BE31-88206CDD4A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanUnderwritingAgentRuntime.Application", "LoanUnderwritingAgentRuntime.Application\LoanUnderwritingAgentRuntime.Application.csproj", "{48E5CA5A-394C-FE5A-7C6D-3EFD7741F021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanUnderwritingAgentRuntime.Domain", "LoanUnderwritingAgentRuntime.Domain\LoanUnderwritingAgentRuntime.Domain.csproj", "{8D4172D3-EF1E-1B25-D0A1-9392E24CA747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanUnderwritingAgentRuntime.Infrastructure", "LoanUnderwritingAgentRuntime.Infrastructure\LoanUnderwritingAgentRuntime.Infrastructure.csproj", "{2691DB38-8D89-464B-86E0-B3D8A898BC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A84F627-C303-62D3-BE31-88206CDD4A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A84F627-C303-62D3-BE31-88206CDD4A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A84F627-C303-62D3-BE31-88206CDD4A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A84F627-C303-62D3-BE31-88206CDD4A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E5CA5A-394C-FE5A-7C6D-3EFD7741F021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E5CA5A-394C-FE5A-7C6D-3EFD7741F021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E5CA5A-394C-FE5A-7C6D-3EFD7741F021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E5CA5A-394C-FE5A-7C6D-3EFD7741F021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4172D3-EF1E-1B25-D0A1-9392E24CA747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4172D3-EF1E-1B25-D0A1-9392E24CA747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4172D3-EF1E-1B25-D0A1-9392E24CA747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4172D3-EF1E-1B25-D0A1-9392E24CA747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2691DB38-8D89-464B-86E0-B3D8A898BC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2691DB38-8D89-464B-86E0-B3D8A898BC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2691DB38-8D89-464B-86E0-B3D8A898BC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2691DB38-8D89-464B-86E0-B3D8A898BC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
